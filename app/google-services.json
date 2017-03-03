@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82936226094",
+    "project_id": "medicine-b94b2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82936226094:android:1741b43073a2ff17",
+        "android_client_info": {
+          "package_name": "com.example.ayush.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82936226094-ife132c4fmusr7qom1dcbtnv4ifbe6ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayush.medicine",
+            "certificate_hash": "790CE962CF8DD428FA70FF4B99B63525B3E6E329"
+          }
+        },
+        {
+          "client_id": "82936226094-htfcf62mjess6i6cm6ebtnq9cmin5516.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcqLnQppKhtTpyu0mfrXNzgIdzGUmVuyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
